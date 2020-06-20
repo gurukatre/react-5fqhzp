@@ -1,0 +1,12 @@
+h1, p {
+  font-family: Lato;
+}
+
+.appHeader {
+  height: 60px;
+  background: #ccc;
+}
+
+.container {
+ display: flex;
+}
